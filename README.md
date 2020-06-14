@@ -7,5 +7,5 @@ We tried using `project_name` of ThaiME projects to predict how much `log_budget
 |--------------|----------|
 | predict mean | 2.455477 |
 | **LinearSVR**    | **1.166351** |
-| ULMFit       | 1.182745 |
+| ULMFit       | 1.170797 |
 | USE          | 1.749290 |
